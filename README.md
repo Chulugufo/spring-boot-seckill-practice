@@ -1,4 +1,5 @@
 # 秒杀系统练习
+主要程序在 /src/main/java/com/example/seckillshop下
 
 ## 技术栈
 Spring Boot + MyBatis + MySQL + Redis + RocketMQ
