@@ -12,8 +12,11 @@ Spring Boot + MyBatis + MySQL + Redis + RocketMQ
 
 ## 接口
 | GET /goods/list | 商品列表 |
+
 | GET /goods/{id} | 商品详情 |
+
 | POST /seckill/order?goodsId=1&userId=1001 | 秒杀下单 |
+
 | GET /hello | 健康检查 |
 
 ## 启动
